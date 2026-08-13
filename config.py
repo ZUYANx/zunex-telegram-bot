@@ -1,6 +1,6 @@
 # config.py
 
-BOT_TOKEN = "8847591236:AAEVfMbZbsfXGIXwNL9BHn2MPwSLWjKpuoU"
+BOT_TOKEN = "8847591236:AAEVfMbZbsfXGIXwNL9BHn2MPwSLWjKpuoF"
 API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
 # Database
