@@ -96,14 +96,10 @@ ZUNEX BOT is a complete Telegram-based order management solution designed for bu
 Copy and run these commands:
 
 ```bash
-# Clone repository
 git clone https://github.com/ZUYANx/zunex-telegram-bot.git
 
-# Enter directory
 cd zunex-telegram-bot
 
-# Run setup script
 bash setup.sh
 
-# Start bot
 zunex
